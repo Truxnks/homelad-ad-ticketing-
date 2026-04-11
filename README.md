@@ -7,7 +7,7 @@ This project simulates a real-world corporate IT environment where I act as the 
 **Purpose:** Demonstrate hands-on experience with technologies used daily in helpdesk, desktop support, and junior system administrator roles.
 ---
 
-## 🏗️ Infrastructure Architecture
+## Infrastructure Architecture
 ┌─────────────────────────────────────┐
 │ Internal Network (homelab) │
 │ 192.168.1.0/24 │
@@ -25,7 +25,7 @@ This project simulates a real-world corporate IT environment where I act as the 
 │ DHCP Server │ │ │ │ │ │ (Planned) │
 └──────────────┘ └──────────────┘ └──────────────┘ └──────────────┘
 
-## ✅ Completed Tasks
+##  Completed Tasks
 
 ### Domain Controller (DC01)
 - [x] Windows Server 2022 installed (Desktop Experience)
@@ -54,7 +54,7 @@ This project simulates a real-world corporate IT environment where I act as the 
 
 ---
 
-## 🐛 Problems Solved & Lessons Learned
+##  Problems Solved & Lessons Learned
 
 | Problem | Root Cause | Solution | Skill Demonstrated |
 |---------|-----------|----------|---------------------|
@@ -67,7 +67,7 @@ This project simulates a real-world corporate IT environment where I act as the 
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 | Technology | Purpose |
 |------------|---------|
@@ -81,7 +81,7 @@ This project simulates a real-world corporate IT environment where I act as the 
 
 ---
 
-## 📁 Repository Structure
+##  Repository Structure
 homelab-helpdesk-lab/
 ├── README.md # This file
 ├── docs/
@@ -106,7 +106,7 @@ text
 
 ---
 
-## 📸 Screenshots
+##  Screenshots
 
 | Screenshot | Description |
 |------------|-------------|
@@ -118,7 +118,7 @@ text
 
 ---
 
-## 🚀 How to Replicate This Lab
+##  How to Replicate This Lab
 
 ### Prerequisites
 - VirtualBox installed
